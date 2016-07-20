@@ -7,3 +7,13 @@ This project is part of the Front End Web Developement Course:
 
 Course Link
 [Front End Web](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001).
+
+##How to run
+
+any browser will do
+
+* webkit 
+* safari (deprecated)
+* opera
+* msie
+* mozilla
