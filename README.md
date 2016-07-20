@@ -13,7 +13,7 @@ Course Link
 open file with any browser will do
 
 * webkit 
-* safari (deprecated)
+* safari 
 * opera
 * msie
 * mozilla
