@@ -10,7 +10,7 @@ Course Link
 
 ##How to run
 
-any browser will do
+open file with any browser will do
 
 * webkit 
 * safari (deprecated)
